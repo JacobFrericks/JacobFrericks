@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I create blog posts and open source applications! I have a passion for development and best security practices. You can see a full list of what I am up to on [jacobfrericks.com](jacobfrericks.com). If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/jacobfrericks), give me a shout out [@JacTheDev](https://twitter.com/JacTheDev), or give some ♥ on [DEV.to/jacobfrericks](https://dev.to/jacobfrericks)!
+I create blog posts and open source applications! I have a passion for development and best security practices. You can see a full list of what I am up to on [jacobfrericks.com](jacobfrericks.com). If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/jacobfrericks), give me a shout out [@JacTheDev](https://twitter.com/JacTheDev), or give some ♥ on [dev.to/jacobfrericks](https://dev.to/jacobfrericks)!
 
 ---
 
