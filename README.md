@@ -12,7 +12,7 @@ If you have ideas on what could be automated, please create an issue in the repo
 
 ### Latest Blog
 <!-- blog starts -->
-
+[Choose Distroless containers by default](https://dev.to/jacobfrericks/choose-distroless-containers-by-default-19oi)
 <!-- blog ends -->
 
 <p align='center'>
