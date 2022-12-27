@@ -33,9 +33,12 @@ def fetch_blog_entries():
     ]
 
 def format_blog(entries):
-    return "\n\n".join(
-        ["[{title}]({url})".format(**entry) for entry in entries]
-    )
+    md_str = ""
+    for entry in entries:
+        if entry.get("cover_image"):
+            md_str = md_str + "[![blog cover image]({cover_image})]({url})".format(**entry)
+        md_str = md_str + """[{title}]({url})<br />{description}<br /><br />""".format(**entry)
+    return md_str
 
 
 def main():
