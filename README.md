@@ -10,6 +10,11 @@ I write about things I am familiar with, things I can automate, and things that 
 
 If you have ideas on what could be automated, please create an issue in the repo [JacobFrericks](https://www.github.com/jacobfrericks/jacobfrericks) and assign it to project "ideas". I'm always interested in more automation ideas!
 
+### Latest Blog
+<!-- blog starts -->
+
+<!-- blog ends -->
+
 <p align='center'>
 <a href="https://dev.to/jacobfrericks"><img height="30" src="https://raw.githubusercontent.com/JacobFrericks/JacobFrericks/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter/JacobFrericks_"><img height="30" src="https://github.com/JacobFrericks/JacobFrericks/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
