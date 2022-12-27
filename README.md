@@ -12,7 +12,7 @@ If you have ideas on what could be automated, please create an issue in the repo
 
 ### Latest Blog
 <!-- blog starts -->
-
+[![blog cover image](https://res.cloudinary.com/practicaldev/image/fetch/s--GhUvytVI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://tr1.cbsistatic.com/hub/i/r/2017/04/06/6f6fb9b1-b297-464d-a0e0-48b366745fe2/resize/770x/e75cd06318a179e5041993a6a8034df6/dockersechero.jpg)](https://dev.to/jacobfrericks/choose-distroless-containers-by-default-19oi)[Choose Distroless containers by default](https://dev.to/jacobfrericks/choose-distroless-containers-by-default-19oi)<br />I have been using Distroless containers for a little over a year now, and they're awesome! They're se...<br /><br />
 <!-- blog ends -->
 
 <p align='center'>
