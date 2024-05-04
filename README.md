@@ -15,6 +15,17 @@ If you have ideas on what could be automated, please create an issue in the repo
 [![blog cover image](https://res.cloudinary.com/practicaldev/image/fetch/s--GhUvytVI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://tr1.cbsistatic.com/hub/i/r/2017/04/06/6f6fb9b1-b297-464d-a0e0-48b366745fe2/resize/770x/e75cd06318a179e5041993a6a8034df6/dockersechero.jpg)](https://dev.to/jacobfrericks/choose-distroless-containers-by-default-19oi)[Choose Distroless containers by default](https://dev.to/jacobfrericks/choose-distroless-containers-by-default-19oi)<br />I have been using Distroless containers for a little over a year now, and they're awesome! They're se...<br /><br />
 <!-- blog ends -->
 
+### Portfolio
+<!-- portfolio starts -->
+# [Backup Data](https://github.com/JacobFrericks/backup_data)
+Backup data from websites such as Facebook or Google Takeout. This can be extremely useful if you have a data cap from your ISP, but still wish to backup your data.
+
+# [Plex Healthcheck](https://github.com/JacobFrericks/plex-healthcheck)
+This script will verify that the plex server is up and running. If it is not, it will kill the app and attempt to restart it.
+
+
+<!-- portfolio ends -->
+
 <p align='center'>
 <a href="https://dev.to/jacobfrericks"><img height="30" src="https://raw.githubusercontent.com/JacobFrericks/JacobFrericks/master/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter/JacobFrericks_"><img height="30" src="https://github.com/JacobFrericks/JacobFrericks/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
